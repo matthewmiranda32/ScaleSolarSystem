@@ -1,0 +1,5 @@
+c:\users\matthew miranda\documents\visual studio 2015\Projects\ScaleSolSys\ScaleSolSys\bin\Debug\ScaleSolSys.exe.config
+c:\users\matthew miranda\documents\visual studio 2015\Projects\ScaleSolSys\ScaleSolSys\bin\Debug\ScaleSolSys.exe
+c:\users\matthew miranda\documents\visual studio 2015\Projects\ScaleSolSys\ScaleSolSys\bin\Debug\ScaleSolSys.pdb
+c:\users\matthew miranda\documents\visual studio 2015\Projects\ScaleSolSys\ScaleSolSys\obj\Debug\ScaleSolSys.exe
+c:\users\matthew miranda\documents\visual studio 2015\Projects\ScaleSolSys\ScaleSolSys\obj\Debug\ScaleSolSys.pdb
